@@ -116,4 +116,4 @@ if (menu) {
 }
 
 document.querySelectorAll('.year').forEach(function (el) { el.textContent = new Date().getFullYear(); });
-setLang('pt');
+setLang('en');
